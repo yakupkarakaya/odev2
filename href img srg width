@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+        
+        <h1>Yakup KARAKAYA</h1>
+        <!-- isim soy isim yazıldı ve birazdan hakkımda açıklaması yapılacak-->
+        
+        
+        <h2>hakkımda</h2>
+        <p> ben yakup. 27 yaşındayım. Ege üniversite <strong>ingilizce</strong> işletme bölümünden mezunum.yazılım öğrenip kendimi geliştirmek istedim, aldığım tavsiyerle frond end'e başladım.Düzenli çalışmak için çabalıyorum</p> 
+        <hr>
+        <h3>Sevdiğim filmler</h3>
+        <ol title="1">
+            <li>The Lord of The Rings</li>
+            <li>İnterstaller</li>
+            <li>Leon</li>
+            <li>The god father</li>
+            <li>Her</li>
+        </ol>
+        <a href="https://www.imdb.com/title/tt0120737/" alt="yüzüklerin efendisi" _block >
+            yüzüklerin efendisine gider.
+        </a>
+        <!--yüzüklerin efendisi imbd sitesine yönlendirmek için 'yüzüklerin efendisine gider cümlesine' bir link yerleştiriyorum-->
+        <br>
+        <img width="200" src="images/1.jpg"/>
+        <p> Yüzüklerin efendisi tolkin tarafından yazılmış fantastik bir eserdir. Benim için en iyi kurgu romanı olabilir.Çok uzun zaman önce yazılmış olmasına rağmen halen kitapları okunur ve filmleri izlenir.</p>
+        <hr>
+        <h3>Sevdiğim diziler</h3>
+        <ol type="i">
+        <li>one piece</li>
+        <li>tokyo revenge</li>
+        <li>the sopranos</li>
+        </ol>
+        <hr>
+        <h2>Sevdiğim kitaplar</h2>
+            <ol type="I">
+            <li>olasılıksız</li>
+            <li>empati</li>
+            <li>sefiller</li> 
+        </ol>
+        <!-- href=''...'' target''_blank'' kodunu kullanarak bağlantıyı yan sekmede açma seçeneğini aktifleştirdim.-->
+        <a href="https://www.goodreads.com/book/show/8399007-olas-l-ks-z" target="_blank">
+            olasılıksız
+        </a>
+        kitabı okuduğum ilk sürükleyici romanlar arasındadır. Şu an elime alıp tekrardan okusam aynı heyecanla okuyacağımı düşünüyorum.
+    
+
+
+    </body>
+</html>
